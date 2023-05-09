@@ -1,6 +1,6 @@
 ﻿# SuperHero-Hunter
 Host Link : 
-https://piyush-1871.github.io/SuperHero-Hunter/
+https://superhero-hunter.onrender.com/
 
 Here in this superHero Hunter you can search your desired Marvel superheroes and villians , you can add them to favourites list also.
 
